@@ -1,0 +1,1 @@
+export type ColorsTag = 'green' | 'pink' | 'blue'
